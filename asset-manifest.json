@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c6fc9401.css",
+    "main.js": "/portfolio/static/js/main.c2797f22.js",
+    "static/media/ParallaxWebsite.jpg": "/portfolio/static/media/ParallaxWebsite.6241a40a00af0cac5e3b.jpg",
+    "static/media/foodorderingwebsite.jpg": "/portfolio/static/media/foodorderingwebsite.f1402eba5bbd20b8420e.jpg",
+    "static/media/Ecommerce.jpg": "/portfolio/static/media/Ecommerce.0603752c3eb12274cbb2.jpg",
+    "static/media/Calculator.jpg": "/portfolio/static/media/Calculator.810901a8e1589be3d6fa.jpg",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.5e6ae91c4a8f9a0a55ad.jpg",
+    "static/media/counterapp.jpg": "/portfolio/static/media/counterapp.e51d3650f969f6e9550b.jpg",
+    "static/media/randomcolorgenerator.jpg": "/portfolio/static/media/randomcolorgenerator.3d08f4a2bd89b367b893.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.c6fc9401.css.map": "/portfolio/static/css/main.c6fc9401.css.map",
+    "main.c2797f22.js.map": "/portfolio/static/js/main.c2797f22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fc9401.css",
+    "static/js/main.c2797f22.js"
+  ]
+}
